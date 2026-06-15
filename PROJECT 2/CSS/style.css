@@ -1,0 +1,140 @@
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 16px;
+  background-color: #FDF8F0;
+  color: #2C1810;
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER */
+header {
+  background-color: #0F4C3A;
+  color: #FDF8F0;
+  text-align: center;
+  padding: 40px 20px 30px;
+}
+
+header .tagline {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  letter-spacing: 3px;
+  color: #E8912D;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+}
+
+header h1 {
+  font-size: 42px;
+  font-family: Georgia, serif;
+  color: #FDF8F0;
+  margin: 0 0 8px;
+  letter-spacing: 1px;
+}
+
+header .subtitle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color:#D4AF37;
+  font-style: italic;
+  margin: 0;
+}
+
+/* NAVIGATION */
+nav.menu-nav {
+  background-color: #D4AF37;
+  text-align: center;
+  padding: 0;
+}
+
+nav.menu-nav a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  color: #0F4C3A;
+  text-decoration: none;
+  display: inline-block;
+  padding: 14px 28px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+nav.menu-nav a.active {
+  background-color: #0F4C3A;
+  color: #D4AF37;
+}
+
+/* MAIN CONTENT */
+main {
+  max-width: 860px;
+  margin: 40px auto;
+  padding: 0 24px;
+}
+
+/* MENU SECTION */
+section.menu-section {
+  margin-bottom: 48px;
+}
+
+/* TABLE */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #D4AF37;
+  background-color: #FFFFFF;
+}
+
+/* CAPTION */
+caption {
+  font-size: 22px;
+  font-family: Georgia, serif;
+  color: #0F4C3A;
+  font-weight: 600;
+  background-color: #FDF8F0;
+  padding: 14px 0 10px;
+  text-align: left;
+  border-bottom: 2px solid #D4AF37;
+  letter-spacing: 0.5px;
+}
+
+/* HEADER ROW  */
+th {
+  background-color: #0F4C3A;
+  color: #D4AF37;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  padding: 14px 18px;
+  text-align: left;
+  border: 1px solid #2C3460;
+}
+
+/* DATA CELLS */
+td {
+  padding: 13px 18px;
+  border: 1px solid #E8D5B0;
+  font-size: 15px;
+  color: #2C1810;
+}
+
+
+
+/* FOOTER */
+footer {
+  background-color: #1A1A1A;
+  color: #D4AF37;
+  text-align: center;
+  padding: 28px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin-top: 60px;
+}
+
+footer .footer-brand {
+  color: #D4AF37;
+  font-size: 12px;
+  margin-top: 8px;
+  letter-spacing: 0.5px;
+}
