@@ -81,7 +81,6 @@ section.menu-section {
 table {
   width: 100%;
   border-collapse: collapse;
-  border: 2px solid #D4AF37;
   background-color: #FFFFFF;
 }
 
@@ -94,7 +93,6 @@ caption {
   background-color: #FDF8F0;
   padding: 14px 0 10px;
   text-align: left;
-  border-bottom: 2px solid #D4AF37;
   letter-spacing: 0.5px;
 }
 
