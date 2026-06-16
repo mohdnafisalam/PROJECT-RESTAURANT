@@ -30,7 +30,6 @@ header h1 {
   font-family: Georgia, serif;
   color: #FDF8F0;
   margin: 0 0 8px;
-  letter-spacing: 1px;
 }
 
 header .subtitle {
@@ -49,15 +48,13 @@ nav.menu-nav {
 }
 
 nav.menu-nav a {
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
   color: #0F4C3A;
   text-decoration: none;
   display: inline-block;
   padding: 14px 28px;
-  letter-spacing: 1px;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 nav.menu-nav a.active {
@@ -102,7 +99,6 @@ th {
   color: #D4AF37;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
-  letter-spacing: 1.5px;
   text-transform: uppercase;
   padding: 14px 18px;
   text-align: left;
@@ -134,5 +130,4 @@ footer .footer-brand {
   color: #D4AF37;
   font-size: 12px;
   margin-top: 8px;
-  letter-spacing: 0.5px;
 }
