@@ -3,7 +3,6 @@
 A visually rich, semantic, and multi-page website built from scratch for **Spice Route Restaurant**—an authentic culinary experience established in 1998 in New Delhi. This project showcases clean HTML5 structuring and modular CSS3 styling without the use of heavy external frameworks.
 
 ## 🚀 Live Demo
-*(Optional: If you deploy your site using GitHub Pages, Vercel, or Netlify, add your link here)*
 👉 [View Live Project]( https://mohdnafisalam.github.io/PROJECT-RESTAURANT/)
 
 ---
